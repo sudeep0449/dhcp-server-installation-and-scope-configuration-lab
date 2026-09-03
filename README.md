@@ -30,9 +30,10 @@ A hands-on Windows Server 2022 lab focused on installing and configuring the DHC
 
 Successfully deployed and configured a DHCP Server in Windows Server 2022, including scope creation, gateway and DNS integration, and centralized IP address management for an Active Directory domain environment.
 
-## Full Documentation
+## Repository Contents
 
-[`DHCP Server Installation and Scope Configuration in ADDS lab.pdf`](<./DHCP Server Installation and Scope Configuration in ADDS lab.pdf>) contains the full step-by-step write-up with all implementation screenshots.
+- [`DHCP Server Installation and Scope Configuration in ADDS lab.pdf`](<./DHCP Server Installation and Scope Configuration in ADDS lab.pdf>) — full step-by-step write-up
+- [`screenshot DHCP/`](<./screenshot DHCP>) — implementation evidence (DHCP role installation, scope creation, and address allocation)
 
 ## Author
 
